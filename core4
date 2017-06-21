@@ -43,8 +43,9 @@
         <!-- Fill in the row for Variables -->
         <tr>
         <td><b>Variables</b></td>
-          <td>  </td>
-          <td>  </td>
+          <td> an element, feature, or factor that is liable to vary or change </td>
+          <td> change = 3 
+          print (change) </td>
           <td>  </td>
           <td>  </td>
         </tr>
@@ -52,8 +53,9 @@
         <!-- Fill in the row for Loops -->
         <tr>
           <td><b>Loops</b></td>
-          <td>  </td>
-          <td>  </td>
+          <td> a sequence of instruction s that is continually repeated until a certain condition is reached </td>
+          <td>for x in range(0, 3):
+    print "We're on time %d" % (x)  </td>
           <td>  </td>
           <td>  </td>
         </tr>
@@ -61,8 +63,9 @@
         <!-- Fill in the row for Conditionals -->
         <tr>
           <td><b>Conditionals</b></td>
-          <td>  </td>
-          <td>  </td>
+          <td>   features of a programming language, which perform different computations or actions depending on whether a programmer-specified boolean condition evaluates to true or false. </td>
+          <td>  if food = 'spam':
+          print ('ok')</td>
           <td>  </td>
           <td>  </td>
         </tr>
@@ -70,8 +73,9 @@
         <!-- Fill in the row for Functions -->
         <tr>
           <td><b>Functions</b></td>
-          <td>  </td>
-          <td>  </td>
+          <td>  A section of code that when programming can be called by another part of the program with the purpose of returning one single value</td>
+          <td> print('win')
+          </td>
           <td>  </td>
           <td>  </td>
         </tr>
