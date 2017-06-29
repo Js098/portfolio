@@ -2,5 +2,10 @@
 <html>
   <body>
     <body style="background-color:powderblue;">
-    <h1>Reflections</h1>
+    <h1>intro to robotics</h1>
+    <p> I am exited for the future of robotics because I saw how beneficial robots could be. Being able to figure out how to make a circuit worked well. I could have worked on extensions better next time. </p>
+    <h2>intro to robotics- blinking leds</h2>
+    <p> My team worked together to figure out problems we had trying to create the lightshow. We could have worked on making the code together. The breadboard, arduino, resistors, and wires are the basic pieces of every Arduino sketch.   </p>
+    <h3>intro to robotics- dance party</h3>
+    <p>I learned that you could connect a  code to a circuit to make it run. My favorite part was making the robot spin.</p> 
     
